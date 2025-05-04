@@ -33,6 +33,7 @@ This project implements a `SquareMat` class to represent square matrices of real
 ```
 make Main      # Run demo program
 make test      # Run unit tests
+make valgrind  # Run memory check
 make clean     # Cleanup
 ```
 
